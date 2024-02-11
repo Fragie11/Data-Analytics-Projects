@@ -15,16 +15,18 @@ LICENSE: License file specifying the terms of use for the project code and datas
 
 Instructions
 1. Clone the repository to your local machine using the following command:
+
 git clone https://github.com/Fragie11/imdb-data-analysis.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+
 cd imdb-data-analysis
 
-3. Open the Jupyter Notebook `IMDb_Data_Analysis.ipynb` to view and run the code.
-4. Ensure you have the required libraries (`pandas`, `matplotlib`, `seaborn`) installed. You can install them using pip:
+5. Open the Jupyter Notebook `IMDb_Data_Analysis.ipynb` to view and run the code.
+6. Ensure you have the required libraries (`pandas`, `matplotlib`, `seaborn`) installed. You can install them using pip:
 pip install pandas matplotlib seaborn
 
-5. Upload the IMDb dataset (`imdb_dataset.csv`) to the project directory or specify the correct path in the code.
-6. Run each code cell in the notebook to perform data analysis and visualize the results.
+7. Upload the IMDb dataset (`imdb_dataset.csv`) to the project directory or specify the correct path in the code.
+8. Run each code cell in the notebook to perform data analysis and visualize the results.
 
 Feel free to explore the code, modify it according to your requirements, and share your insights with others!
