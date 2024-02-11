@@ -1,4 +1,5 @@
 IMDb Data Analysis
+
 This project performs data analysis on IMDb movie data using Python with pandas, matplotlib, and seaborn libraries. 
 The dataset used contains information about movies, including budget, country, genre, original language, original title, revenue, score, and status.
 
